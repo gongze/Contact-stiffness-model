@@ -1,0 +1,1 @@
+MF_CSMCM.m file is the main code for our CS-based motor clutch model. Pl.m is the function that used in the main code, while pi_f.xlsx is the calculated contact stiffness that sampled in the main code. More details can be found in the manuscript. 
